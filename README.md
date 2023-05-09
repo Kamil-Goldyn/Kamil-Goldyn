@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔹I feel comfortable with...<br>- JAVA (OOP, Collections)<br>🔸I know the basics, but still learning...<br>- JUnit 5 (Hamcrest)<br>- Maven<br>- PostgreSQL<br>- GIT<br>📚 I'm going to learn soon...<br>- Spring<br>- Spring Boot<br>- Hibernate<br>- Bubble</p>
+<p align="left">🔹I feel pretty comfortable with...<br>- JAVA (OOP, Collections)<br>🔸I know the basics, but still learning...<br>- JUnit 5 (Hamcrest)<br>- Maven<br>- PostgreSQL<br>- GIT<br>📚 I'm going to learn soon...<br>- Spring<br>- Spring Boot<br>- Hibernate<br>- Bubble</p>
 
 ###
 
