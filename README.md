@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">🔹I feel pretty comfortable with...<br>- JAVA (OOP, Collections)<br>🔸I know the basics, but still learning...<br>- JUnit 5 (Hamcrest)<br>- Maven<br>- PostgreSQL<br>- GIT<br>📚 I'm going to learn soon...<br>- Spring<br>- Spring Boot<br>- Hibernate<br>- Bubble</p>
-
-###
-
-<p align="left">Starting from October 2023, I am beginning postgraduate studies as "Java Developer" at WSB Merito University. You can find out more there:<br>https://www.merito.pl/gdansk/studia-i-szkolenia/studia-podyplomowe/kierunki/programista-java/program-studiow<br><br></p>
+<p align="left">🔹I feel comfortable with...<br>- JAVA (OOP, Collections)<br>🔸I know the basics, but still learning...<br>- Spring Boot 3 (Spring Web, Spring Data JPA)<br>- JUnit 5 (Hamcrest)<br>- Maven<br>- PostgreSQL/MySQL<br>- GIT<br>📚 I'm going to learn soon...<br>- Spring Boot REST CRUD, Thymeleaf</p>
 
 ###
